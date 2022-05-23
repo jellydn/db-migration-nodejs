@@ -911,10 +911,10 @@ jws@^4.0.0:
     jwa "^2.0.0"
     safe-buffer "^5.0.1"
 
-knex@^1.0.0:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/knex/-/knex-1.0.6.tgz#4b72050bd5569dd3c758f766d8b0932928dd0284"
-  integrity sha512-J9jYxo0ttDJz6fCfWaBrQ16mkXQvh/FjNL+7x11IqCy/2nq8vpv1MWMBPMK9UwXYiTPdn/EU4bg1KP6eXjOVEA==
+knex@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/knex/-/knex-2.0.0.tgz#84296ced7ef27e0f3b954302ac7d9da67c28b5d3"
+  integrity sha512-LchC8/GLfreMz8d4kCwh/ymXttsoJG8zO1O0AJBjnxdyr2oT/k2ik77hP1PpZkZH9mDQrq6WsQcIu18Pnqppzg==
   dependencies:
     colorette "2.0.16"
     commander "^9.1.0"
