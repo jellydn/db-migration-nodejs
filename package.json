@@ -6,7 +6,7 @@
   "dependencies": {
     "knex": "^2.0.0",
     "mssql": "^8.0.0",
-    "sqlite3": "^5.0.0"
+    "sqlite3": "^6.0.0"
   },
   "devDependencies": {
     "ts-node": "10.9.1",
